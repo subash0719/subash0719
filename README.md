@@ -55,6 +55,11 @@ Currently enhancing my skills in **Spark**, **Azure Synapse**, and **cloud-nativ
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
   </a>
 
+  <!-- Microsoft Fabric -->
+  <a href="https://www.microsoft.com/en-us/fabric" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/fabric/media/fabric-overview/fabric-logo.svg" alt="Microsoft Fabric" width="40" height="40"/>
+  </a>
+
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
