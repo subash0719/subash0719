@@ -1,7 +1,6 @@
 ![Banner](1.png) <!-- Replace with your own image or banner link -->
 
 <h1 align="center">👋 Hi, I'm Subash Siva</h1>
----
 
 I am a dedicated **Data Analyst / Data Engineer** with over **2 years of experience** transforming data into meaningful insights and building robust pipelines. I specialize in using tools like **SQL Server**, **Power BI**, **Azure Data Factory**, **Tableau**, and **Databricks** to deliver business intelligence solutions and automate data workflows.  
 
