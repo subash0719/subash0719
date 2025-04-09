@@ -19,8 +19,47 @@ Currently enhancing my skills in **Spark**, **Azure Synapse**, and **cloud-nativ
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-plain.svg" alt="SQL Server" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-databricks-an-american-enterprise-software-company-logo-color-tal-revivo.png" alt="Databricks" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="Hadoop" width="40" height="40"/> <img src="https://img.icons8.com/ios/50/000000/sparkling.png" alt="Spark" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/> </p>
-
+<p align="left">
+  <!-- SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+  
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  
+  <!-- Databricks -->
+  <a href="https://www.databricks.com/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-databricks-an-american-enterprise-software-company-logo-color-tal-revivo.png" alt="Databricks" width="40" height="40"/>
+  </a>
+  
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
+  </a>
+  
+  <!-- Azure -->
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  </a>
+  
+  <!-- Azure Data Factory -->
+  <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/logos/logo-ms-azure-data-factory.svg" alt="Azure Data Factory" width="40" height="40"/>
+  </a>
+  
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  </a>
+</p>
 ---
 
 📈 _“Turning data into action is not just my job — it’s my passion.”_
