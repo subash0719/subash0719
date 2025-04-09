@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subash Siva
 
-![Banner](your-banner-image-url-here) <!-- Replace with your own image or banner link -->
+![Banner]("C:\Users\sivasu\Downloads\ChatGPT Image Apr 9, 2025, 02_13_08 PM.png") <!-- Replace with your own image or banner link -->
 
 ---
 
