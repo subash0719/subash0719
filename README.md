@@ -1,4 +1,4 @@
-![Banner](1.png) <!-- Replace with your own image or banner link -->
+![Banner](banner.png) <!-- Replace with your own image or banner link -->
 
 <h1 align="center">👋 Hi, I'm Subash Siva</h1>
 
