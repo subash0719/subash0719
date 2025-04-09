@@ -4,7 +4,7 @@
 
 ---
 
-I am a dedicated **Data Analyst / Data Engineer** with over **2 years of experience** transforming data into meaningful insights and building robust pipelines. I specialize in using tools like **SQL Server**, **Power BI**, **Azure Data Factory**, **Tableua**, and **Databricks** to deliver business intelligence solutions and automate data workflows.  
+I am a dedicated **Data Analyst / Data Engineer** with over **2 years of experience** transforming data into meaningful insights and building robust pipelines. I specialize in using tools like **SQL Server**, **Power BI**, **Azure Data Factory**, **Tableau**, and **Databricks** to deliver business intelligence solutions and automate data workflows.  
 
 I enjoy solving real-world data problems and have worked on projects involving **report automation**, **ETL pipeline development**, and **dashboarding** for performance monitoring and efficiency tracking.  
 
