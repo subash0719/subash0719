@@ -47,7 +47,7 @@ Currently enhancing my skills in **Spark**, **Azure Synapse**, and **cloud-nativ
 
   <!-- Azure Data Factory -->
   <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-data-factory-azure-flat-flat-juicy-fish.png" alt="Azure Data Factory" width="40" height="40"/>
+    <img src="adfimage.png" alt="Azure Data Factory" width="40" height="40"/>
   </a>
 
   <!-- Power BI -->
