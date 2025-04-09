@@ -57,7 +57,7 @@ Currently enhancing my skills in **Spark**, **Azure Synapse**, and **cloud-nativ
 
   <!-- Microsoft Fabric -->
   <a href="https://www.microsoft.com/en-us/fabric" target="_blank">
-    <img src="fabricimage.webp" alt="Microsoft Fabric" width="40" height="40"/>
+    <img src="fabric2img.jpeg" alt="Microsoft Fabric" width="40" height="40"/>
   </a>
 
   <!-- Git -->
