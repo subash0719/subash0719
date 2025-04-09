@@ -14,7 +14,7 @@ Currently enhancing my skills in **Spark**, **Azure Synapse**, and **cloud-nativ
 
 - 🔍 I’m a **Data Analyst / Data Engineer**
 - 📺 YouTube: [YourChannelLinkHere](#)
-- 💼 LinkedIn: [linkedin.com/in/subash-siva](https://www.linkedin.com/in/subhash-s-54408724a)
+- 💼 LinkedIn: [linkedin.com/in/subhash-s-54408724a](https://www.linkedin.com/in/subhash-s-54408724a)
 - 📂 Portfolio: [GitHub Projects](https://subash0719.github.io/) 
 
 ---
