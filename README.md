@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subash Siva
 
-![Banner]("Black Elegant Modern Personal LinkedIn Banner.png") <!-- Replace with your own image or banner link -->
+![Banner](BlackElegantModernPersonalBanner.png) <!-- Replace with your own image or banner link -->
 
 ---
 
