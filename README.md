@@ -32,7 +32,7 @@ Currently enhancing my skills in **Spark**, **Azure Synapse**, and **cloud-nativ
 
   <!-- Databricks -->
   <a href="https://www.databricks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Databricks_Logo.png" alt="Databricks" width="40" height="40"/>
+    <img src="databricksimage.png" alt="Databricks" width="40" height="40"/>
   </a>
 
   <!-- Tableau -->
