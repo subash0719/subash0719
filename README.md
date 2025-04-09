@@ -22,7 +22,7 @@ Currently enhancing my skills in **Spark**, **Azure Synapse**, and **cloud-nativ
 <p align="left">
   <!-- SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src=""C:\Users\sivasu\Downloads\sqlserver.jpeg"" alt="SQL Server" width="40" height="40"/>
+    <img src="sqlserver.jpeg" alt="SQL Server" width="40" height="40"/>
   </a>
 
   <!-- Python -->
